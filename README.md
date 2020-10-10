@@ -1,1 +1,1 @@
-# Grokking-System-Design-Interview-Inzamam
+# grok_sdi_educative
